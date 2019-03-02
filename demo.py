@@ -2,9 +2,9 @@ def hello():
     print("Hello World!")
 
 
-def hello-class():
+def hello_class():
     print("Hi Class")
 
 hello()
-hello-class()
+hello_class()
 

@@ -1,8 +1,8 @@
-def hello()
+def hello():
     print("Hello World!")
 
 
-def hello-class()
+def hello-class():
 print("Hi Class")
 
 hello()

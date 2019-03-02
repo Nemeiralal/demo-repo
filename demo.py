@@ -3,7 +3,7 @@ def hello():
 
 
 def hello-class():
-print("Hi Class")
+    print("Hi Class")
 
 hello()
 hello-class()
